@@ -1,0 +1,277 @@
+{
+    "exampleemail@gmail.com": {
+        "email": "exampleemail@gmail.com",
+        "name": "examplename",
+        "password": "examplepassword",
+        "consultationBookings": [
+            {
+                "scheduleFor": "Consultation",
+                "email": "exampleemail@gmail.com",
+                "name": "examplename",
+                "phoneNumber": "42342343",
+                "consultationFor": "solar panels",
+                "date": "23/04/2025",
+                "time": "23:12"
+            }
+        ],
+        "installationBookings": [
+            {
+                "scheduleFor": "Installation",
+                "email": "exampleemail@gmail.com",
+                "name": "examplename",
+                "phoneNumber": "42343242342",
+                "homeAddress": "fdsfsd",
+                "city": "gfd",
+                "postCode": "hd",
+                "bookingDate": "23/05/2034",
+                "installationFor": "ev station",
+                "quantity": "1",
+                "cardholderName": "gfdgd",
+                "cardNumber": "24234324",
+                "expiryDate": "23/04/2025",
+                "cvv": "123"
+            }
+        ],
+        "energyUsages": [
+            {
+                "month": "june",
+                "power": 1.5,
+                "time": "5",
+                "totalenergyUsage": 12.5
+            },
+            {
+                "month": "june",
+                "power": 1.5,
+                "time": "5",
+                "totalenergyUsage": 12.5
+            },
+            {
+                "month": "june",
+                "power": 1.5,
+                "time": "5",
+                "totalenergyUsage": 12.5
+            },
+            {
+                "month": "june",
+                "power": 1.5,
+                "time": "5",
+                "totalenergyUsage": 12.5
+            },
+            {
+                "month": "june",
+                "power": 2.5,
+                "time": "5",
+                "totalenergyUsage": 12.5
+            },
+            {
+                "month": "july",
+                "power": 3.5,
+                "time": "2",
+                "totalenergyUsage": 7.0
+            }
+        ]
+    },
+    "testtry1@gmail.com": {
+        "email": "testtry1@gmail.com",
+        "name": "testtry1",
+        "password": "12345",
+        "installationBookings": [
+            {
+                "scheduleFor": "Installation",
+                "email": "testtry1@gmail.com",
+                "name": "testtry1",
+                "phoneNumber": 58475585854,
+                "homeAddress": "152 new road",
+                "city": "uxbridge",
+                "postCode": "ub2 2hd",
+                "bookingDate": "24/05/2020",
+                "installationFor": "smart home system",
+                "quantity": 1,
+                "cardholderName": "testtry testy",
+                "cardNumber": 1234567891212121,
+                "expiryDate": "23/03/2027",
+                "cvv": 223
+            }
+        ]
+    },
+    "testing1@gmail.com": {
+        "email": "testing1@gmail.com",
+        "name": "testing1",
+        "password": "testing12345",
+        "energyUsages": [
+            {
+                "month": "2025-07",
+                "power": 1.5,
+                "time": 8.0,
+                "totalenergyUsage": 12.0
+            }
+        ],
+        "consultationBookings": [
+            {
+                "scheduleFor": "Consultation",
+                "email": "testing1@gmail.com",
+                "name": "testing1",
+                "phoneNumber": "12345678910",
+                "consultationFor": "EV charging station",
+                "date": "2025-04-27",
+                "time": "11:50"
+            },
+            {
+                "scheduleFor": "Consultation",
+                "email": "testing1@gmail.com",
+                "name": "testing1",
+                "phoneNumber": "1321423483747",
+                "consultationFor": "smart home system",
+                "date": "2025-04-27",
+                "time": "13:54"
+            },
+            {
+                "scheduleFor": "Consultation",
+                "email": "testing1@gmail.com",
+                "name": "testing1",
+                "phoneNumber": "312321",
+                "consultationFor": "solar panels",
+                "date": "2025-04-10",
+                "time": "14:53"
+            },
+            {
+                "scheduleFor": "Consultation",
+                "email": "testing1@gmail.com",
+                "name": "testing1",
+                "phoneNumber": "42374892374823",
+                "consultationFor": "solar panels",
+                "date": "2026-05-23",
+                "time": "12:45"
+            },
+            {
+                "scheduleFor": "Consultation",
+                "email": "testing1@gmail.com",
+                "name": "testing1",
+                "phoneNumber": "4389247238979",
+                "consultationFor": "EV charging station",
+                "date": "2027-07-25",
+                "time": "14:45"
+            }
+        ]
+    },
+    "testing2@gmail.cpm": {
+        "email": "testing2@gmail.cpm",
+        "name": "testing2",
+        "password": "testing212345",
+        "energyUsages": [
+            {
+                "month": "2025-06",
+                "power": 12.0,
+                "time": 5.0,
+                "totalenergyUsage": 60.0
+            },
+            {
+                "month": "2025-06",
+                "power": 12.0,
+                "time": 5.0,
+                "totalenergyUsage": 60.0
+            }
+        ]
+    },
+    "testing3@gmail.com": {
+        "email": "testing3@gmail.com",
+        "name": "testing3",
+        "password": "testing312345",
+        "energyUsages": [
+            {
+                "month": "2025-06",
+                "power": 1.5,
+                "time": 4.0,
+                "totalenergyUsage": 6.0
+            }
+        ]
+    },
+    "testing4@gmail.com": {
+        "email": "testing4@gmail.com",
+        "name": "testing4",
+        "password": "testing51314"
+    },
+    "testing5@gmail.com": {
+        "email": "testing5@gmail.com",
+        "name": "testing5",
+        "password": "testing512345"
+    },
+    "testing6@gmail.com": {
+        "email": "testing6@gmail.com",
+        "name": "testing6",
+        "password": "testing6123456",
+        "consultationBookings": [
+            {
+                "scheduleFor": "Consultation",
+                "email": "testing6@gmail.com",
+                "name": "testing6",
+                "phoneNumber": "475875847589",
+                "consultationFor": "solar panels",
+                "date": "2025-05-11",
+                "time": "14:05"
+            }
+        ],
+        "installationBookings": [
+            {
+                "scheduleFor": "Installation",
+                "email": "testing6@gmail.com",
+                "name": "testing6",
+                "phoneNumber": "hjkdshfjk",
+                "homeAddress": "jfdshfjsg",
+                "city": "ggd",
+                "postCode": "gdfgdf",
+                "bookingDate": "2025-04-20",
+                "installationFor": "solar panels",
+                "quantity": "2",
+                "cardholderName": "dfgfd",
+                "cardNumber": "1234567890111111",
+                "expiryDate": "2025-04-30",
+                "cvv": "123",
+                "costforInstallation": 10000.0
+            }
+        ],
+        "energyUsages": [
+            {
+                "month": "2025-08",
+                "power": 3.5,
+                "time": 5.0,
+                "totalenergyUsage": 17.5
+            },
+            {
+                "month": "2025-08",
+                "power": 1.5,
+                "time": 5.0,
+                "totalenergyUsage": 7.5
+            }
+        ]
+    },
+    "skyla@gmail.com": {
+        "email": "skyla@gmail.com",
+        "name": "skyla menezes",
+        "password": "123456!",
+        "energyUsages": [
+            {
+                "month": "2025-11",
+                "power": 1.5,
+                "time": 5.0,
+                "totalenergyUsage": 7.5
+            }
+        ],
+        "consultationBookings": [
+            {
+                "scheduleFor": "Consultation",
+                "email": "skyla@gmail.com",
+                "name": "skyla menezes",
+                "phoneNumber": "12345678",
+                "consultationFor": "solar panels",
+                "date": "2025-05-24",
+                "time": "14:35"
+            }
+        ]
+    },
+    "skyla1@gmail.com": {
+        "email": "skyla1@gmail.com",
+        "name": "skyla menezes",
+        "password": "1234567!"
+    }
+}
