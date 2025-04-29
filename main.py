@@ -6,7 +6,7 @@ from routes.routes import App
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000"
+    "https://rolsa-technologies-uk1j.onrender.com"
 ]
 
 app.add_middleware(
